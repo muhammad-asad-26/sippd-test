@@ -8,14 +8,17 @@
   },
   "homepage": "https://arnab-datta.github.io/counter-app",
   "dependencies": {
+    "@hookform/resolvers": "^2.8.3",
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-hook-form": "^7.19.5",
     "react-scripts": "2.1.8",
-    "typescript": "^3.9.10"
+    "typescript": "^3.9.10",
+    "yup": "^0.32.11"
   },
   "scripts": {
     "predeploy": "npm run build",
